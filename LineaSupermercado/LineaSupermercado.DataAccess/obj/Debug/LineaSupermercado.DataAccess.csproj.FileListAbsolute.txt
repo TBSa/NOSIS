@@ -1,0 +1,16 @@
+C:\Users\Alejo\Source\Repos\LineaSupermercado\LineaSupermercado.DataAccess\bin\Debug\LineaSupermercado.DataAccess.dll
+C:\Users\Alejo\Source\Repos\LineaSupermercado\LineaSupermercado.DataAccess\bin\Debug\LineaSupermercado.DataAccess.pdb
+C:\Users\Alejo\Source\Repos\LineaSupermercado\LineaSupermercado.DataAccess\bin\Debug\LineaSupermercado.Model.dll
+C:\Users\Alejo\Source\Repos\LineaSupermercado\LineaSupermercado.DataAccess\bin\Debug\LineaSupermercado.Model.pdb
+C:\Users\Alejo\Source\Repos\LineaSupermercado\LineaSupermercado.DataAccess\obj\Debug\LineaSupermercado.DataAccess.csprojAssemblyReference.cache
+C:\Users\Alejo\Source\Repos\LineaSupermercado\LineaSupermercado.DataAccess\obj\Debug\LineaSupermercado.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Alejo\Source\Repos\LineaSupermercado\LineaSupermercado.DataAccess\obj\Debug\LineaSupermercado.DataAccess.csproj.CopyComplete
+C:\Users\Alejo\Source\Repos\LineaSupermercado\LineaSupermercado.DataAccess\obj\Debug\LineaSupermercado.DataAccess.dll
+C:\Users\Alejo\Source\Repos\LineaSupermercado\LineaSupermercado.DataAccess\obj\Debug\LineaSupermercado.DataAccess.pdb
+C:\Users\Alejo\Source\Repos\LineaSupermercado\LineaSupermercado.DataAccess\bin\Debug\LineaSupermercado.DataAccess.dll.config
+C:\Users\Alejo\Source\Repos\LineaSupermercado\LineaSupermercado.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Alejo\Source\Repos\LineaSupermercado\LineaSupermercado.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alejo\Source\Repos\LineaSupermercado\LineaSupermercado.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Alejo\Source\Repos\LineaSupermercado\LineaSupermercado.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alejo\Source\Repos\LineaSupermercado\LineaSupermercado.DataAccess\obj\Debug\LineaSupermercado.DataAccess.Migrations.InitiaMigration.resources
+C:\Users\Alejo\Source\Repos\LineaSupermercado\LineaSupermercado.DataAccess\obj\Debug\LineaSupermercado.DataAccess.csproj.GenerateResource.cache

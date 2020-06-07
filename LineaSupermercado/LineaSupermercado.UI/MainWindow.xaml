@@ -1,0 +1,26 @@
+﻿<Window x:Class="LineaSupermercado.UI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LineaSupermercado.UI"
+        mc:Ignorable="d"
+        Title="Linea de Supermercado" Height="450" Width="800">
+    <Grid>
+        <ListView x:Name="listView" Margin="161,41,28,24" ItemsSource="{Binding SupermarketCheckoutList}">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Id" Width="50" DisplayMemberBinding="{Binding Id}"/>
+                    <GridViewColumn Header="Descipción" Width="230" DisplayMemberBinding="{Binding Description}"/>
+                    <GridViewColumn Header="Clientes atendidos" Width="150" DisplayMemberBinding="{Binding ClientsServed}"/>
+                    <GridViewColumn Header="Clientes por atender" Width="150" DisplayMemberBinding="{Binding ClientsToAttend}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>        
+        <Label Content="Listado de las cajas abiertas" HorizontalAlignment="Left" Margin="161,10,0,0" VerticalAlignment="Top" FontSize="15" Width="434"/>
+        <Button Content="Abrir caja" HorizontalAlignment="Left" Margin="29,108,0,0" VerticalAlignment="Top" Width="100" Click="OpenSupermarketCheckout_Click" RenderTransformOrigin="0.44,-12.55"/>
+        <Button Content="Cerrar caja" HorizontalAlignment="Left" Margin="29,150,0,0" VerticalAlignment="Top" Width="100" Click="CloseSupermarketCheckout_Click"/>
+        <Button Content="Agregar cliente" HorizontalAlignment="Left" Margin="29,196,0,0" VerticalAlignment="Top" Width="100" Click="AddClient_Click"/>
+        <Button Content="Atender cliente" HorizontalAlignment="Left" Margin="29,242,0,0" VerticalAlignment="Top" Width="100" Click="ServeClient_Click"/>        
+    </Grid>
+</Window>

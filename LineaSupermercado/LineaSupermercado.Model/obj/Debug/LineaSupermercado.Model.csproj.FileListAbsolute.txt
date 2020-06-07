@@ -1,0 +1,6 @@
+C:\Users\Alejo\Source\Repos\LineaSupermercado\LineaSupermercado.Model\bin\Debug\LineaSupermercado.Model.dll
+C:\Users\Alejo\Source\Repos\LineaSupermercado\LineaSupermercado.Model\bin\Debug\LineaSupermercado.Model.pdb
+C:\Users\Alejo\Source\Repos\LineaSupermercado\LineaSupermercado.Model\obj\Debug\LineaSupermercado.Model.csproj.CoreCompileInputs.cache
+C:\Users\Alejo\Source\Repos\LineaSupermercado\LineaSupermercado.Model\obj\Debug\LineaSupermercado.Model.dll
+C:\Users\Alejo\Source\Repos\LineaSupermercado\LineaSupermercado.Model\obj\Debug\LineaSupermercado.Model.pdb
+C:\Users\Alejo\Source\Repos\LineaSupermercado\LineaSupermercado.Model\obj\Debug\LineaSupermercado.Model.csprojAssemblyReference.cache
